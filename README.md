@@ -48,14 +48,30 @@ Hands-on cybersecurity portfolio covering:
 ### 🧩 Frameworks & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK®-red?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK">
-  <img src="https://img.shields.io/badge/NIST%20CSF-blue?style=for-the-badge&logo=shield&logoColor=white" alt="NIST CSF">
-  <img src="https://img.shields.io/badge/Splunk-76B900?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Zeek-005C8A?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek">
-  <img src="https://img.shields.io/badge/Nmap-2C8EBB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <a href="https://attack.mitre.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MITRE%20ATT%26CK®-red?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK">
+  </a>
+  <a href="https://www.nist.gov/cyberframework" target="_blank">
+    <img src="https://img.shields.io/badge/NIST%20CSF-blue?style=for-the-badge&logo=shield&logoColor=white" alt="NIST CSF">
+  </a>
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk-76B900?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  </a>
+  <a href="https://zeek.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Zeek-005C8A?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek">
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-2C8EBB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
 </p>
 
 ---
