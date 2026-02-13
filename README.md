@@ -36,7 +36,7 @@ My work bridges hands-on technical labs, frameworks like **MITRE ATT&CK®** and 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Security Engineering Portfolio
 
 #### 🧪 Cybersecurity Labs Portfolio
 📁 **[Cybersecurity Portfolio – 12 Labs Repository](https://github.com/SDimitri05/cyberlabs-mitre)**  
@@ -48,17 +48,19 @@ Hands-on cybersecurity portfolio covering:
 ---
 
 #### ⚠️ Vulnerability Management Projects
-- 📌 **Vulnerability Management Program Implementation**  
-  *(Repository: `SDimitri05/vulnerability-management-program` — coming soon)*  
 
-- 📌 **Programmatic Vulnerability Remediation (PowerShell / Bash)**  
-  *(Repository: `SDimitri05/programmatic-vulnerability-remediation` — coming soon)*  
+- 📌 **[Vulnerability Management Program Implementation](https://github.com/SDimitri05/vulnerability-management-program)**  
+  Enterprise-style vulnerability lifecycle design including asset identification, risk scoring, remediation workflows, and reporting.
+
+- 📌 **[Programmatic Vulnerability Remediation (PowerShell / Bash)](https://github.com/SDimitri05/programmatic-vulnerability-remediation)**  
+  Automation-driven remediation scripts for Windows and Linux environments aligned with security best practices.
 
 ---
 
 #### 🚨 Threat Hunting & Security Operations
-- 📌 **Threat Hunting Scenario – Tor Browser Detection**  
-  *(Repository: `SDimitri05/threat-hunting-tor-detection` — coming soon)*  
+
+- 📌 **[Threat Hunting Scenario – Tor Browser Detection](https://github.com/SDimitri05/threat-hunting-tor-detection)**  
+  Structured hunting investigation focused on detecting anonymized traffic and suspicious browser usage using logs and network telemetry.
 
 ---
 
