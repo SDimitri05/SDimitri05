@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDimitri05/SDimitri05/main/banner-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="main-banner-dark.png">
     <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SDimitri05/SDimitri05/main/banner-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="main-banner-light.png">
     <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/SDimitri05/SDimitri05/main/banner-light.png" alt="NSD Cybersecurity Portfolio Banner" width="100%">
+    <img src="main-banner-light.png" alt="NSD Cybersecurity Portfolio Banner" width="100%">
   </picture>
 </p>
 
