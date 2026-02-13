@@ -91,4 +91,4 @@ Hands-on cybersecurity portfolio covering:
 
 ---
 
-© 2025 Sun Dimitri NFANDA · All rights reserved.
+© 2025-Present Sun Dimitri NFANDA · All rights reserved.
