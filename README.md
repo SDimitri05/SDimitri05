@@ -26,6 +26,7 @@ My work bridges hands-on technical labs, frameworks like **MITRE ATT&CK®** and 
 - 🔐 **CompTIA Security+**
 - 🧩 **ISC² Certified in Cybersecurity (CC)**
 - 🛡️ **CompTIA CySA+ (Cybersecurity Analyst)**
+- 💻 **THM SAL1 (TryHackMe Security Analyst Level 1)**
 
 ---
 
