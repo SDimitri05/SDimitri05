@@ -36,12 +36,29 @@ My work bridges hands-on technical labs, frameworks like **MITRE ATT&CK®** and 
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+#### 🧪 Cybersecurity Labs Portfolio
 📁 **[Cybersecurity Portfolio – 12 Labs Repository](https://github.com/SDimitri05/cyberlabs-mitre)**  
 Hands-on cybersecurity portfolio covering:
 - **12 labs** mapped to **MITRE ATT&CK®** (Labs 1–7) and **NIST CSF / SP 800-61 / SP 800-40** (Labs 8–12)  
-- Includes command walkthroughs, screenshots, and framework mappings  
-- Demonstrates practical skills in threat detection, analysis, and defense
+- Command walkthroughs, screenshots, and framework mappings  
+- Demonstrates practical skills in threat detection, analysis, and defense  
+
+---
+
+#### ⚠️ Vulnerability Management Projects
+- 📌 **Vulnerability Management Program Implementation**  
+  *(Repository: `SDimitri05/vulnerability-management-program` — coming soon)*  
+
+- 📌 **Programmatic Vulnerability Remediation (PowerShell / Bash)**  
+  *(Repository: `SDimitri05/programmatic-vulnerability-remediation` — coming soon)*  
+
+---
+
+#### 🚨 Threat Hunting & Security Operations
+- 📌 **Threat Hunting Scenario – Tor Browser Detection**  
+  *(Repository: `SDimitri05/threat-hunting-tor-detection` — coming soon)*  
 
 ---
 
