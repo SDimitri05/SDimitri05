@@ -91,4 +91,6 @@ Hands-on cybersecurity portfolio covering:
 
 ---
 
-© 2025-Present Sun Dimitri NFANDA · All rights reserved.
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/SDimitri05/SDimitri05/main/year.json" alt="Copyright Year">
+</p>
