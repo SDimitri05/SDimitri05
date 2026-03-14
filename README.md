@@ -63,6 +63,8 @@ Hands-on cybersecurity portfolio covering:
 - 📌 **[Threat Hunting Scenario – Tor Browser Detection](https://github.com/SDimitri05/threat-hunting-tor-detection)**  
   Structured hunting investigation focused on detecting anonymized traffic and suspicious browser usage using logs and network telemetry.
 
+- 📌 **[Threat Hunting Scenario – Port of Entry](https://github.com/SDimitri05/threat-hunting-port-of-entry)**  
+  Structured threat hunting investigation reconstructing a multi-stage endpoint compromise involving RDP initial access, malware staging, defense evasion, persistence, credential dumping, data exfiltration, and lateral movement using endpoint telemetry and KQL queries.
 ---
 
 ### 🧩 Frameworks & Tools
