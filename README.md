@@ -50,6 +50,12 @@ Hands-on cybersecurity portfolio covering:
 
 #### ⚠️ Vulnerability Management Projects
 
+- 📌 **[Windows 11 STIG Remediation (DISA STIG + Tenable)](https://github.com/SDimitri05/windows-11-stig-remediation)**  
+  End-to-end remediation of **Windows 11 DISA STIG findings** using PowerShell automation and Tenable scans across **6 iterative assessments**.  
+  - Remediated **10 primary STIG controls** (services, lock screen, account lockout, password policy)  
+  - Documented **~12 total impacted STIGs** due to policy interactions and system re-evaluation  
+  - Demonstrates compliance validation, security hardening, and remediation troubleshooting in a Windows environment
+    
 - 📌 **[Vulnerability Management Program Implementation](https://github.com/SDimitri05/vulnerability-management-program)**  
   Enterprise-style vulnerability lifecycle design including asset identification, risk scoring, remediation workflows, and reporting.
 
